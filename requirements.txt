@@ -1,0 +1,13 @@
+kagglehub
+pandas
+numpy
+scikit-learn
+sentence-transformers
+matplotlib
+tqdm
+torch
+transformers
+huggingface-hub
+jupyter
+notebook
+ipykernel
